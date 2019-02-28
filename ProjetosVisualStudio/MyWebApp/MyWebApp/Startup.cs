@@ -27,12 +27,15 @@ namespace MyWebApp
             
             var sqlConnection = _configuration.GetConnectionString("MyWebAppDB");
             services.AddDbContext<MyWebAppContex>(options => options.UseMySql(sqlConnection, b => b.MigrationsAssembly("MyWebApp")));
+
+            services.AddMvc();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
             app.UseStaticFiles();
+            app.UseMvcWithDefaultRoute();
         }
     }
 }

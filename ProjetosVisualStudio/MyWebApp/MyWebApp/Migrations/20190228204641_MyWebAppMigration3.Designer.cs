@@ -2,15 +2,17 @@
 using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using MyWebApp;
 
 namespace MyWebApp.Migrations
 {
     [DbContext(typeof(MyWebAppContex))]
-    partial class MyWebAppContexModelSnapshot : ModelSnapshot
+    [Migration("20190228204641_MyWebAppMigration3")]
+    partial class MyWebAppMigration3
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

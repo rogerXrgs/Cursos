@@ -21,7 +21,7 @@ namespace MyWebApp.Entidades
             set;
         }
 
-        public ICollection<Pedido> Pedidos
+        public ICollection<ItemPedido> ItensPedidos
         {
             get;
             set;

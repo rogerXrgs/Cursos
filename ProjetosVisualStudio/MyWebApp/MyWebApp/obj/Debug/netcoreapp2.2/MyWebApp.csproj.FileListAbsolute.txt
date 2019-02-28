@@ -25,3 +25,13 @@ D:\Cursos\ProjetosVisualStudio\MyWebApp\MyWebApp\obj\Debug\netcoreapp2.2\MyWebAp
 D:\Cursos\ProjetosVisualStudio\MyWebApp\MyWebApp\obj\Debug\netcoreapp2.2\MyWebApp.RazorTargetAssemblyInfo.cache
 D:\Cursos\ProjetosVisualStudio\MyWebApp\MyWebApp\obj\Debug\netcoreapp2.2\MyWebApp.dll
 D:\Cursos\ProjetosVisualStudio\MyWebApp\MyWebApp\obj\Debug\netcoreapp2.2\MyWebApp.pdb
+D:\Cursos\ProjetosVisualStudio\MyWebApp\MyWebApp\bin\Debug\netcoreapp2.2\MyWebApp.Views.dll
+D:\Cursos\ProjetosVisualStudio\MyWebApp\MyWebApp\bin\Debug\netcoreapp2.2\MyWebApp.Views.pdb
+D:\Cursos\ProjetosVisualStudio\MyWebApp\MyWebApp\obj\Debug\netcoreapp2.2\MyWebApp.csprojAssemblyReference.cache
+D:\Cursos\ProjetosVisualStudio\MyWebApp\MyWebApp\obj\Debug\netcoreapp2.2\MyWebApp.TagHelpers.input.cache
+D:\Cursos\ProjetosVisualStudio\MyWebApp\MyWebApp\obj\Debug\netcoreapp2.2\MyWebApp.TagHelpers.output.cache
+D:\Cursos\ProjetosVisualStudio\MyWebApp\MyWebApp\obj\Debug\netcoreapp2.2\MyWebApp.RazorCoreGenerate.cache
+D:\Cursos\ProjetosVisualStudio\MyWebApp\MyWebApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\Cursos\ProjetosVisualStudio\MyWebApp\MyWebApp\obj\Debug\netcoreapp2.2\MyWebApp.RazorTargetAssemblyInfo.cs
+D:\Cursos\ProjetosVisualStudio\MyWebApp\MyWebApp\obj\Debug\netcoreapp2.2\MyWebApp.Views.pdb
+D:\Cursos\ProjetosVisualStudio\MyWebApp\MyWebApp\obj\Debug\netcoreapp2.2\MyWebApp.csproj.CopyComplete
