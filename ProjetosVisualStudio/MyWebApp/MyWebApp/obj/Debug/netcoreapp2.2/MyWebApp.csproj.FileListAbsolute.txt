@@ -12,3 +12,16 @@ D:\Projetos-Cursos\ProjetosVisualStudio\MyWebApp\MyWebApp\obj\Debug\netcoreapp2.
 D:\Projetos-Cursos\ProjetosVisualStudio\MyWebApp\MyWebApp\obj\Debug\netcoreapp2.2\MyWebApp.dll
 D:\Projetos-Cursos\ProjetosVisualStudio\MyWebApp\MyWebApp\obj\Debug\netcoreapp2.2\MyWebApp.pdb
 D:\Projetos-Cursos\ProjetosVisualStudio\MyWebApp\MyWebApp\obj\Debug\netcoreapp2.2\MyWebApp.csprojAssemblyReference.cache
+D:\Cursos\ProjetosVisualStudio\MyWebApp\MyWebApp\bin\Debug\netcoreapp2.2\MyWebApp.deps.json
+D:\Cursos\ProjetosVisualStudio\MyWebApp\MyWebApp\bin\Debug\netcoreapp2.2\MyWebApp.runtimeconfig.json
+D:\Cursos\ProjetosVisualStudio\MyWebApp\MyWebApp\bin\Debug\netcoreapp2.2\MyWebApp.runtimeconfig.dev.json
+D:\Cursos\ProjetosVisualStudio\MyWebApp\MyWebApp\bin\Debug\netcoreapp2.2\MyWebApp.dll
+D:\Cursos\ProjetosVisualStudio\MyWebApp\MyWebApp\bin\Debug\netcoreapp2.2\MyWebApp.pdb
+D:\Cursos\ProjetosVisualStudio\MyWebApp\MyWebApp\obj\Debug\netcoreapp2.2\MyWebApp.csproj.CoreCompileInputs.cache
+D:\Cursos\ProjetosVisualStudio\MyWebApp\MyWebApp\obj\Debug\netcoreapp2.2\MyWebApp.RazorAssemblyInfo.cache
+D:\Cursos\ProjetosVisualStudio\MyWebApp\MyWebApp\obj\Debug\netcoreapp2.2\MyWebApp.RazorAssemblyInfo.cs
+D:\Cursos\ProjetosVisualStudio\MyWebApp\MyWebApp\obj\Debug\netcoreapp2.2\MyWebApp.AssemblyInfoInputs.cache
+D:\Cursos\ProjetosVisualStudio\MyWebApp\MyWebApp\obj\Debug\netcoreapp2.2\MyWebApp.AssemblyInfo.cs
+D:\Cursos\ProjetosVisualStudio\MyWebApp\MyWebApp\obj\Debug\netcoreapp2.2\MyWebApp.RazorTargetAssemblyInfo.cache
+D:\Cursos\ProjetosVisualStudio\MyWebApp\MyWebApp\obj\Debug\netcoreapp2.2\MyWebApp.dll
+D:\Cursos\ProjetosVisualStudio\MyWebApp\MyWebApp\obj\Debug\netcoreapp2.2\MyWebApp.pdb
