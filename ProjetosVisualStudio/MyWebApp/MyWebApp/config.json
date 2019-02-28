@@ -1,5 +1,5 @@
 {
-  "ConectionStrings": {
+  "ConnectionStrings": {
     "MyWebAppDB": "server=localhost;userid=devVisual;password=mysql01;database=MyWebAppDB;"
   }
 }
