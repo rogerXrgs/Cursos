@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using MyWebApp.AcessoDados;
 
 namespace MyWebApp
 {
@@ -29,6 +30,7 @@ namespace MyWebApp
             services.AddDbContext<MyWebAppContex>(options => options.UseMySql(sqlConnection, b => b.MigrationsAssembly("MyWebApp")));
 
             services.AddMvc();
+            services.AddScoped<IProdutoRepository, ProdutoRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

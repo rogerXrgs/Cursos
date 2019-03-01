@@ -1,1 +1,7 @@
-﻿<h2>Teste</h2>
+﻿@Model List<Produto>
+    <h2>Teste</h2>
+
+@foreach(var item in Model)
+{
+    <div>@item.Nome</div>
+}
