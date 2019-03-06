@@ -34,3 +34,4 @@ D:\Cursos\ProjetosVisualStudio\MyWebApp\MyWebApp\obj\Debug\netcoreapp2.2\Razor\V
 D:\Cursos\ProjetosVisualStudio\MyWebApp\MyWebApp\obj\Debug\netcoreapp2.2\MyWebApp.RazorTargetAssemblyInfo.cs
 D:\Cursos\ProjetosVisualStudio\MyWebApp\MyWebApp\obj\Debug\netcoreapp2.2\MyWebApp.Views.pdb
 D:\Cursos\ProjetosVisualStudio\MyWebApp\MyWebApp\obj\Debug\netcoreapp2.2\MyWebApp.csproj.CopyComplete
+D:\Cursos\ProjetosVisualStudio\MyWebApp\MyWebApp\obj\Debug\netcoreapp2.2\MyWebApp.csprojAssemblyReference.cache
