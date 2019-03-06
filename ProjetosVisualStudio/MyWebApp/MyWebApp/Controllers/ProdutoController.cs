@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using MyWebApp.AcessoDados;
+using MyWebApp.Entidades;
 using System;
 
 namespace MyWebApp.Controllers
@@ -24,6 +25,32 @@ namespace MyWebApp.Controllers
             catch(Exception ex)
             {
                 return BadRequest("Erro:" + ex.Message);
+            }
+        }
+
+        [HttpGet("{id:int}")]
+        public IActionResult Get(int id)
+        {
+            try
+            {
+                var produto = _produtoRepository.ObterProdutoPorId(id);
+                return Ok(produto);
+            } catch(Exception ex)
+            {
+                return BadRequest($"Erro: {ex.Message}");
+            }
+        }
+
+        [HttpPost]
+        public IActionResult Post([FromBody]Produto produto)
+        {
+            try
+            {
+                _produtoRepository.Salvar(produto);
+                return Created("/api/produto", produto);
+            }catch(Exception ex)
+            {
+                return BadRequest($"Erro: {ex.Message}");
             }
         }
     }
