@@ -5,3 +5,13 @@ function boaNoticia(nota){
 }
 
 boaNoticia(8)
+
+function seForVerdadeEuFalo(valor){
+    if(valor){
+        console.log('É verdadeiro ...' + valor)
+    }
+}
+
+seForVerdadeEuFalo()
+seForVerdadeEuFalo(null)
+seForVerdadeEuFalo(true)
